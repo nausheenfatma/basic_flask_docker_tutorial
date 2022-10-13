@@ -8,7 +8,7 @@ https://github.com/nausheenfatma/basic_docker_tutorial
 The following command will build a docker image from the dockerfile
 
 ```
-docker build --tag python-docker
+docker build --tag python-docker .
 ```
 
 ## 3. Run the container 
